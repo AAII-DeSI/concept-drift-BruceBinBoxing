@@ -1,0 +1,3 @@
+[submodule "SIGKDD-2019-DUQ"]
+	path = SIGKDD-2019-DUQ
+	url = https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting.git
